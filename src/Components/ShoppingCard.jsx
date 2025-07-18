@@ -19,9 +19,7 @@ export const Card = (props) => {
                 <button className="cursor-pointer px-5 py-1 border border-blue-500 rounded-lg
                  text-blue-500 hover:text-white mr-2 bg-white hover:bg-blue-500" onClick={hello}>
                     {props.Add}</button>
-            
                 </div>
-            
         </div>
     )
 }
